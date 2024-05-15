@@ -1,0 +1,1 @@
+This is a simple TODO list website it implements the CRUD to create, delete or alter your tasks.
